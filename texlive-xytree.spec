@@ -6,7 +6,7 @@
 # catalog-version 1.5
 Name:		texlive-xytree
 Version:	1.5
-Release:	8
+Release:	9
 Summary:	Tree macros using XY-Pic
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xytree
